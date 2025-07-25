@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity {
     private EditText editTextt;
 
 //commit to branch
+//committed second time
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
